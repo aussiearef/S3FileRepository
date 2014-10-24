@@ -6,16 +6,14 @@ and files, download a file, upload a file, check the existance of a file, delete
 
 To begin using the library you will need to add the required configuration items to your web.config or app.config file. The configuration item will require your secredIt, accessId and region endpoint that AWS will provide you.  The below regions names can be used in the configuration file:
 
-
-Region Name				                    Region	Endpoint	
-US East (N. Virginia) region		      us-east-1	
-US West (N. California) region		    us-west-1	
-US West (Oregon) region		          	us-west-2	
-EU (Ireland) region			              eu-west-1	
-Asia Pacific (Singapore) region		    ap-southeast-1	
-Asia Pacific (Sydney) region		      ap-southeast-2	
-Asia Pacific (Tokyo) region		        ap-northeast-1	
-South America (Sao Paulo) region	    sa-east-1	
+us-east-1	
+us-west-1	
+us-west-2	
+eu-west-1	
+ap-southeast-1	
+ap-southeast-2	
+ap-northeast-1	
+sa-east-1	
 
 For more details please see my blog which is http://aspguy.wordpress.com
 
