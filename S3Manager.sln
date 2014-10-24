@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aref.S3.Lib", "Aref.S3.Lib\Aref.S3.Lib.csproj", "{C7DE9146-0598-4B88-8ADD-8FC4E1EB1CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aref.S3.Console", "Aref.S3.Console\Aref.S3.Console.csproj", "{057D4EA6-3614-4D5A-9EE0-2B7EBFC0B53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DE9146-0598-4B88-8ADD-8FC4E1EB1CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DE9146-0598-4B88-8ADD-8FC4E1EB1CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DE9146-0598-4B88-8ADD-8FC4E1EB1CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DE9146-0598-4B88-8ADD-8FC4E1EB1CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057D4EA6-3614-4D5A-9EE0-2B7EBFC0B53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057D4EA6-3614-4D5A-9EE0-2B7EBFC0B53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057D4EA6-3614-4D5A-9EE0-2B7EBFC0B53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057D4EA6-3614-4D5A-9EE0-2B7EBFC0B53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
